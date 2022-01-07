@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1 align="center">👋Hi there, I'm Padah kim</h1>
+<h3 align="center">A developer never give up</h3>
 
-<h1 align="center">Hi 👋, I'm Padah kim</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-- 🌱 I’m currently taking **multicampus online web developer course**
+- 🌱 I’m currently taking **multicampus web developer online course**
 
 - 📝 I regularly write articles on [https://padahkim.tistory.com/](https://padahkim.tistory.com/)
 

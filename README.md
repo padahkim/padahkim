@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently taking **multicampus web developer online course**
 
-- 📝 I regularly write articles on [https://padahkim.tistory.com/](https://padahkim.tistory.com/)
+- 📝 I regularly write articles on 
 
 - 📫 How to reach me **padahkim@gmail.com**
 

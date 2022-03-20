@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi there, I'm Padah kim</h1>
 <h3 align="center">A developer never give up</h3>
 
-- 🌱 I’m currently taking **multicampus web developer online course**
+- 🌱 
 
 - 📝 I regularly write articles on 
 
